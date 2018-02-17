@@ -6,6 +6,8 @@
 
 package pruebagithub;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author wcamacho
@@ -17,6 +19,7 @@ public class PruebaGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null,"Estoy Aprendiendo a Usar GitHub");
     }
     
 }
