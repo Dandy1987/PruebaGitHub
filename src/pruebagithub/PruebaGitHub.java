@@ -20,6 +20,7 @@ public class PruebaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"Estoy Aprendiendo a Usar GitHub");
+        JOptionPane.showMessageDialog(null,"Se ve interesante");
     }
     
 }
